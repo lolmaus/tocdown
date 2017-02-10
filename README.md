@@ -1,4 +1,4 @@
-# Test!@#$%^&*()_+_+[]\{}|;':",./<>?Test
+# Test`-=[]\;',./~!@#$%^&*()_+{}|:"<>?Test
 
 tocdown is a general purpose table of contents generator that takes markdown as input. There is a command-line version written in Ruby and a Javascript version with identical functionality that can be embedded in a website.
 
